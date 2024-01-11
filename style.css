@@ -1,0 +1,58 @@
+
+.heading{
+    padding: 10px;
+    color:aliceblue;
+    text-align: center;
+    text-transform:uppercase;
+}
+
+
+body{
+background-color: black;
+
+}
+.container-2{
+    display:flex;
+    flex-wrap: wrap;
+    margin: 5%;
+    flex-direction: row;
+    justify-content: center;
+    float: bottom;
+    font-style: italic;
+    font-size: smaller;
+    text-align: center;
+    color: aliceblue;
+
+}
+.img{
+    border:  1px;
+    padding: 0%;
+    margin-right: 50px;
+    
+
+}
+.img-1{
+    border: 1px;
+    padding:0%;
+    margin-right: 50px;
+
+
+}
+
+.img-2{
+    border: 1px;
+    padding: 0%;
+    margin-right: 50px;
+    
+
+}
+
+.img-3{
+    border:  1px;
+    padding:0;
+    margin-right: 50px;
+
+
+    
+}
+
